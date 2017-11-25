@@ -1,0 +1,76 @@
+{
+"datagrid" :[
+    {
+        "NAME": "Woolworth",
+		"PERCENT": 19,
+        "TOTAL": 900,
+        "THIRTY": 300,
+		"SIXTY": 200,
+		"NINETY": 35,
+		"NINETYPLUS": 24,
+        "AVDEBT": 62,
+		"AVDIL": 0.06,
+        "RATING": 5
+    },
+    {
+        "NAME": "Franklins",
+		"PERCENT": 4,
+        "TOTAL": 114,
+        "THIRTY": 40,
+		"SIXTY": 41,
+		"NINETY": 33,
+		"NINETYPLUS": 0,
+        "AVDEBT": 55,
+		"AVDIL": 0.14,
+        "RATING": 3
+    },
+    {
+        "NAME": "BigW",
+		"PERCENT": 3,
+        "TOTAL": 82,
+        "THIRTY": 57,
+		"SIXTY": 15,
+		"NINETY": 10,
+		"NINETYPLUS": 1,
+        "AVDEBT": 64,
+		"AVDIL": 0.05,
+        "RATING": 4
+    },
+    {
+        "NAME": "Food for Less",
+		"PERCENT": 2,
+        "TOTAL": 63,
+        "THIRTY": 34,
+		"SIXTY": 12,
+		"NINETY": 10,
+		"NINETYPLUS": 7,
+        "AVDEBT": 63,
+		"AVDIL": 0.05,
+        "RATING": 4
+    },
+    {
+        "NAME": "Post Office",
+		"PERCENT": 2,
+        "TOTAL": 45,
+        "THIRTY": 19,
+		"SIXTY": 26,
+		"NINETY": 0,
+		"NINETYPLUS": 0,
+        "AVDEBT": 60,
+		"AVDIL": 0.06,
+        "RATING": 4
+    },
+    {
+        "NAME": "Other Balances",
+		"PERCENT": 71,
+        "TOTAL": 2120,
+        "THIRTY": 1076,
+		"SIXTY": 392,
+		"NINETY": 488,
+		"NINETYPLUS": 164,
+        "AVDEBT": 65,
+		"AVDIL": 0.15,
+        "RATING": 3
+    }
+]
+}
