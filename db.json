@@ -21,6 +21,13 @@
                      "paymentGrossAmount":8476.16,
                      "paymentTaxableAmount":0,
                      "paymentGSTAmount":0
+                  },
+                  {  
+                     "paymentType":"Refund Amount",
+                     "paymentState":"AWAITING_REVIEW",
+                     "paymentGrossAmount":8476.16,
+                     "paymentTaxableAmount":0,
+                     "paymentGSTAmount":0
                   }
                ]
             },
