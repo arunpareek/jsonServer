@@ -1,5 +1,6 @@
 {
-"paymentBySchemeParticipant"
+"paymentBySchemeParticipant":
+        [
         {
     "schemeParticipantType": "MANUFACTURER",
     "totalAmount": 25428.48,
@@ -70,3 +71,4 @@
     }
 }
 }
+                ]}
