@@ -1,7 +1,7 @@
 {
     "schemeParticipantType": "MANUFACTURER",
     "totalAmount": 25428.48,
-    "paymentPeriod":  "M2018-07"
+    "paymentPeriod":  "M2018-07",
     "schemeParticipantPayments": [
         {
             "id": "QM010101001",
