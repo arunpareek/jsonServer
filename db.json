@@ -1,6 +1,5 @@
 {
 "paymentBySchemeParticipant":
-        [
         {
     "schemeParticipantType": "MANUFACTURER",
     "totalAmount": 25428.48,
@@ -70,5 +69,4 @@
         "timeStamp": "2018-08-06 11:33:10.325 +0530"
     }
 }
-
-                ]}
+}
