@@ -1,7 +1,7 @@
 {
-"paymentTransactions":
+"payment-Transactions":
         {
-"MANUFACTURER":
+"manufacturer":
         {
     "schemeParticipantType": "MANUFACTURER",
     "totalAmount": 25428.48,
