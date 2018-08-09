@@ -1,71 +1,73 @@
 {  
-   "manufacturer":{  
-      "schemeParticipantType":"MANUFACTURER",
-      "totalAmount":25428.48,
-      "paymentPeriod":"M2018-07",
-      "schemeParticipantPayments":[  
-         {  
-            "id":"QM010101001",
-            "name":"Tooheys Pty Ltd",
-            "unitOfMeasureCode":"Ea",
-            "paymentDate":"2018-08-06 11:33:07.247",
-            "totalWeightOrQuantity":66.81,
-            "totalGrossAmount":8476.16,
-            "totalTaxableAmount":0,
-            "totalGSTAmount":0,
-            "schemeParticipantPaymentTransactions":[  
-               {  
-                  "paymentType":"Scheme Price",
-                  "paymentState":"AWAITING_REVIEW",
-                  "paymentGrossAmount":8476.16,
-                  "paymentTaxableAmount":0,
-                  "paymentGSTAmount":0
-               }
-            ]
-         },
-         {  
-            "id":"QM010101002",
-            "name":"Lion B&D Pty Ltd",
-            "unitOfMeasureCode":"Ea",
-            "paymentDate":"2018-08-06 11:33:07.247",
-            "totalWeightOrQuantity":66.81,
-            "totalGrossAmount":8476.16,
-            "totalTaxableAmount":0,
-            "totalGSTAmount":0,
-            "schemeParticipantPaymentTransactions":[  
-               {  
-                  "paymentType":"Scheme Price",
-                  "paymentState":"AWAITING_REVIEW",
-                  "paymentGrossAmount":8476.16,
-                  "paymentTaxableAmount":0,
-                  "paymentGSTAmount":0
-               }
-            ]
-         },
-         {  
-            "id":"QM020202001",
-            "name":"Castlemain Perkins Pty Ltd",
-            "unitOfMeasureCode":"EA",
-            "paymentDate":"2018-08-06 11:33:07.247",
-            "totalWeightOrQuantity":66.81,
-            "totalGrossAmount":8476.16,
-            "totalTaxableAmount":0,
-            "totalGSTAmount":0,
-            "schemeParticipantPaymentTransactions":[  
-               {  
-                  "paymentType":"Scheme Price",
-                  "paymentState":"AWAITING_REVIEW",
-                  "paymentGrossAmount":8476.16,
-                  "paymentTaxableAmount":0,
-                  "paymentGSTAmount":0
-               }
-            ]
+   "payment-transactions":{  
+      "manufacturer":{  
+         "schemeParticipantType":"MANUFACTURER",
+         "totalAmount":25428.48,
+         "paymentPeriod":"M2018-07",
+         "schemeParticipantPayments":[  
+            {  
+               "id":"QM010101001",
+               "name":"Tooheys Pty Ltd",
+               "unitOfMeasureCode":"Ea",
+               "paymentDate":"2018-08-06 11:33:07.247",
+               "totalWeightOrQuantity":66.81,
+               "totalGrossAmount":8476.16,
+               "totalTaxableAmount":0,
+               "totalGSTAmount":0,
+               "schemeParticipantPaymentTransactions":[  
+                  {  
+                     "paymentType":"Scheme Price",
+                     "paymentState":"AWAITING_REVIEW",
+                     "paymentGrossAmount":8476.16,
+                     "paymentTaxableAmount":0,
+                     "paymentGSTAmount":0
+                  }
+               ]
+            },
+            {  
+               "id":"QM010101002",
+               "name":"Lion B&D Pty Ltd",
+               "unitOfMeasureCode":"Ea",
+               "paymentDate":"2018-08-06 11:33:07.247",
+               "totalWeightOrQuantity":66.81,
+               "totalGrossAmount":8476.16,
+               "totalTaxableAmount":0,
+               "totalGSTAmount":0,
+               "schemeParticipantPaymentTransactions":[  
+                  {  
+                     "paymentType":"Scheme Price",
+                     "paymentState":"AWAITING_REVIEW",
+                     "paymentGrossAmount":8476.16,
+                     "paymentTaxableAmount":0,
+                     "paymentGSTAmount":0
+                  }
+               ]
+            },
+            {  
+               "id":"QM020202001",
+               "name":"Castlemain Perkins Pty Ltd",
+               "unitOfMeasureCode":"EA",
+               "paymentDate":"2018-08-06 11:33:07.247",
+               "totalWeightOrQuantity":66.81,
+               "totalGrossAmount":8476.16,
+               "totalTaxableAmount":0,
+               "totalGSTAmount":0,
+               "schemeParticipantPaymentTransactions":[  
+                  {  
+                     "paymentType":"Scheme Price",
+                     "paymentState":"AWAITING_REVIEW",
+                     "paymentGrossAmount":8476.16,
+                     "paymentTaxableAmount":0,
+                     "paymentGSTAmount":0
+                  }
+               ]
+            }
+         ],
+         "_meta":{  
+            "status":"SUCCESS",
+            "code":"0",
+            "timeStamp":"2018-08-06 11:33:10.325 +0530"
          }
-      ],
-      "_meta":{  
-         "status":"SUCCESS",
-         "code":"0",
-         "timeStamp":"2018-08-06 11:33:10.325 +0530"
       }
    }
 }
