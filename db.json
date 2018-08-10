@@ -14,6 +14,7 @@
                "totalGrossAmount":8476.16,
                "totalTaxableAmount":0,
                "totalGSTAmount":0,
+               "holdPaymentFlag":true,
                "schemeParticipantPaymentTransactions":[  
                   {  
                      "paymentType":"Scheme Price",
